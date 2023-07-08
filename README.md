@@ -3,6 +3,8 @@
 
 I am a 13 year old! My hobby is scripting. I scripting in almost languanges but my favorite is Python, HTML, Lua! But i can also scriptin Discord Bot in JavaScript. I learning Python and HTML. I started scripting 1 year ago with Lua! I was born and live in Russia! If you need to contact with me my Discord Profile is zxcerake Bye!
 
+https://camo.githubusercontent.com/807c21be33b49578f61783ae750ca3d637432fefc2c40fd23f3f99d35f319b34/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4a336c646f2673686f775f69636f6e733d74727565267468656d653d6461726b
+
 <!--
 **Snus1x/Snus1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
