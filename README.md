@@ -1,4 +1,7 @@
 ## 👋Hello, I am Snus1x or zxcerake
+### About me
+
+I am a 13 year old! My hobby is scripting. I scripting in almost languanges but my favorite is Python, HTML, Lua! But i can also scriptin Discord Bot in JavaScript. I learning Python and HTML. I started scripting 1 year ago with Lua! I was born and live in Russia! If you need to contact with me my Discord Profile is zxcerake Bye!
 
 <!--
 **Snus1x/Snus1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
